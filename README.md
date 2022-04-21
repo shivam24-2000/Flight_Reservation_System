@@ -4,9 +4,9 @@
 
 ## Aim & Objective
 - To develop a working menu driven Flight Reservation System in emu8086. In this project, we are aiming to develop these modules:
-- Display flight information.
-- Book the flight tickets with user defined destination and age groups.
-- Show the Total bill amount and ask the user for further ticket booking/exit the system.
+    - Display flight information.
+    - Book the flight tickets with user defined destination and age groups.
+    - Show the Total bill amount and ask the user for further ticket booking/exit the system.
 
 ## FlowChart
 
